@@ -1,10 +1,10 @@
-package com.example.PEP1_Tingeso_Backend;
+package com.example.PEP3_Tingeso_Backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PEP1TingesoBackendApplicationTests {
+class PEP3TingesoBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
